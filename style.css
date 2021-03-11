@@ -1,0 +1,16 @@
+body{
+	margin: 40px auto;
+	max-width: 650px;
+	color: #444;
+	line-height: 1.8
+}
+
+p, blockquote  {
+	text-align: justify;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 2em;
+}
+
